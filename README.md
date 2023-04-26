@@ -14,7 +14,7 @@ You will have to view the imports at the top of the script and pip install them 
 For now, it is intended to just run as a script to initialize a command-line-interface through which its functionality can be utilized
 
 Personally
--I have this file saved in a "Scripts" folder, and I have a function on my bash.bashrc file to run the script when I type a keyword.
+\n-I have this file saved in a "Scripts" folder, and I have a function on my bash.bashrc file to run the script when I type a keyword.
 -This will run the CLI in whatever working-directory I opened my shell in. The folders created, which contain the downloaded files, will be in this working-directory.
 
 
